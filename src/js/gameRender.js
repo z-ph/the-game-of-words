@@ -56,7 +56,7 @@ class GameRender {
    * 该配置数据从rightChildren和leftChildren方法获取
    * @returns {Object} 包含左右两侧卡片容器配置的对象
    */
-  get config() {
+  config(left, right) {
     const config = {
       children: [
         {
@@ -71,8 +71,8 @@ class GameRender {
         },
       ]
     }
-    config.children[0].children = this.leftChildren;
-    config.children[1].children = this.rightChildren;
+    config.children[0].children = this.leftWordChildren;
+    config.children[1].children = this.rightWordChildren;
     return config;
   }
 
@@ -81,7 +81,7 @@ class GameRender {
    * 该方法从localStorage中获取用户的结果数据，如果不存在则从randomWordList中获取
    * @returns {Array} 包含左侧卡片元素配置的数组
    */
-  get leftChildren() {
+  get leftWordChildren() {
     let left;
     if (localStorage.getItem('userResult')) {
       const userResult = JSON.parse(localStorage.getItem('userResult'));
@@ -115,7 +115,7 @@ class GameRender {
    * 从randomWordList中获取时，会对翻译进行初始随机排序
    * @returns {Array} 包含右侧卡片元素配置的数组
    */
-  get rightChildren() {
+  get rightWordChildren() {
     let right;
     if (localStorage.getItem('userResult')) {
       const userResult = JSON.parse(localStorage.getItem('userResult'));
@@ -147,9 +147,9 @@ class GameRender {
    * 渲染游戏界面，清空容器并重新渲染左右两侧卡片，同时初始化拖拽功能
    * 渲染数据从 config 属性中获取，config 属性是一个包含左右两侧卡片容器配置的对象
    */
-  render() {
+  renderWords() {
     this.container.innerHTML = '';
-    Render.render(this.container, this.config);
+    Render.render(this.container, this.config(this.leftWordChildren, this.rightWordChildren));
     Render.dragHandle(this.left, { vertical: true, duration: 1000 });
     Render.dragHandle(this.right, { vertical: true, duration: 1000 });
     return;
@@ -206,7 +206,7 @@ class GameRender {
       })
     }
     localStorage.setItem('userResult', JSON.stringify(messUpUserResult));
-    this.render();
+    this.renderWords();
   }
 
   /**
@@ -216,7 +216,7 @@ class GameRender {
     this.randomWordList = [...this.wordList].sort(() => Math.random() - 0.5).splice(0, 10);
     localStorage.setItem('randomWordList', JSON.stringify(this.randomWordList));
     localStorage.removeItem('userResult');
-    this.render();
+    this.renderWords();
   }
 
   /**

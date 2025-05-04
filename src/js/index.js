@@ -11,7 +11,7 @@ const wordDataList = JSON.parse(localStorage.getItem('wordList'));
 const appContainer = document.querySelector('.app .container')
 // 渲染游戏
 const appRender = new GameRender(appContainer, wordDataList);
-appRender.render();
+appRender.renderWords();
 
 // 获取按钮元素
 const saveButton = document.querySelector('#save');

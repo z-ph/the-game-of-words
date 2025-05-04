@@ -40,7 +40,8 @@
 
 .app>.container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 50px;
 }
 
 .app>.btn-container {

@@ -1,6 +1,7 @@
 class WordList {
+  static uri = './public/json/words.json';
   async fetchWords() {
-    const response = await fetch('../public/json/words.json');
+    const response = await fetch(uri);
     const json = await response.json();
     let words = [];
     for (const data of json.CET6) {
@@ -23,7 +24,7 @@ class WordList {
     return this.phrase;
   }
   async fetchPhrases() {
-    const response = await fetch('../public/json/words.json');
+    const response = await fetch(uri);
     const json = await response.json();
     let phrases = [];
     for (const data of json.CET6) {
