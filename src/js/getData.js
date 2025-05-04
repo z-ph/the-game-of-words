@@ -1,8 +1,4 @@
 class WordList {
-  constructor() {
-    this.words = [];
-  }
-
   async fetchWords() {
     const response = await fetch('../public/json/words.json');
     const json = await response.json();
@@ -19,10 +15,26 @@ class WordList {
     return words;
   }
   async getWords() {
-    if (this.words.length === 0) {
-      this.words = await this.fetchWords();
-    }
+    this.words = await this.fetchWords();
     return this.words;
+  }
+  async getPhrases() {
+    this.phrase = await this.fetchPhrases();
+    return this.phrase;
+  }
+  async fetchPhrases() {
+    const response = await fetch('../public/json/words.json');
+    const json = await response.json();
+    let phrases = [];
+    for (const data of json.CET6) {
+      const wordMap = data.phrases.map(wordData => {
+        return {
+          word: wordData.word,
+          translation: wordData.chineseMeaning
+        }
+      })
+      phrases = [...phrases, ...wordMap]
+    }
   }
 }
 const wordList = new WordList();
