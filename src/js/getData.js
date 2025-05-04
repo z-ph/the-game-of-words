@@ -4,7 +4,7 @@ class WordList {
   }
 
   async fetchWords() {
-    const response = await fetch('http://localhost:5500/单词记忆游戏/public/json/words.json');
+    const response = await fetch('../public/json/words.json');
     const json = await response.json();
     let words = [];
     for (const data of json.CET6) {
