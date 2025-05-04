@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../public/css/index.css">
+  <title>game</title>
+  <style>
+
+  </style>
+</head>
+
+<body>
+
+  <div class="app">
+    <header>
+      <h1>
+        单词匹配小游戏
+      </h1>
+      <p>
+        玩法:
+        <br>
+        0. 拖动卡片完成单词匹配
+        <br>
+        1. 点击"更新单词"按钮, 会随机从单词组中抽取单词, 并打乱顺序
+        <br>
+        2. 点击"保存顺序"按钮, 会保存当前单词的顺序
+        <br>
+        3. 点击"打乱顺序"按钮, 会打乱当前单词的顺序
+        <br>
+        4. 点击"检查对错"按钮, 会检查当前单词的顺序是否正确
+      </p>
+    </header>
+    <div class="container">
+      <div class="left"></div>
+      <div class="right"></div>
+    </div>
+    <div class="btn-container">
+      <button id="save">保存顺序</button>
+      <button id="mess-up">打乱顺序</button>
+      <button id="change-words-group">更新单词</button>
+      <button id="check-result">检查对错</button>
+    </div>
+  </div>
+  <script src="./js/render.js" type="module"></script>
+
+</body>
+
+</html>
