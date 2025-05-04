@@ -58,7 +58,7 @@
   border: none;
 }
 
-.wrong {
+.error {
   color: white;
   background-color: red;
   border: none;
