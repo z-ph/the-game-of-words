@@ -24,11 +24,15 @@
         <br>
         1. 点击"更新单词"按钮, 会随机从单词组中抽取单词, 并打乱顺序
         <br>
-        2. 点击"保存顺序"按钮, 会保存当前单词的顺序
+        2. 点击"保存顺序"按钮, 会保存当前单词和翻译的顺序
         <br>
-        3. 点击"打乱顺序"按钮, 会打乱当前单词的顺序
+        3. 点击"打乱顺序"按钮, 会打乱当前单词和翻译的顺序
         <br>
-        4. 点击"检查对错"按钮, 会检查当前单词的顺序是否正确
+        4. 点击"检查对错"按钮, 会检查单词与翻译是否配对,绿色表示正确,红色表示错误
+        <br>
+        5. 点击"选择单词组"按钮, 会选择单词组, 单词组分为easy, medium, difficult
+        <br>
+        如遇问题,尝试ctrl+F5重新加载网络资源
       </p>
     </header>
     <div class="container">
@@ -40,12 +44,49 @@
       <button id="mess-up">打乱顺序</button>
       <button id="change-words-group">更新单词</button>
       <button id="check-result">检查对错</button>
+      <select name="words-group" id="words-group">
+        <option value="./public/json/words2.json">easy</option>
+        <option value="./public/json/words3.json">medium</option>
+        <option value="./public/json/words.json">difficult</option>
+      </select>
     </div>
   </div>
   <script>
-    //检测token是否存在, 不存在则跳转到登录页面
   </script>
-  <script src="./src/js/index.js" type="module"></script>
+  <script src="./src/index.js" type="module"></script>
+  <script type="module">
+    import { changeWordsSource } from './src/index.js';
+    const select = document.getElementById('words-group');
+
+    // 页面卸载时保存滚动位置
+    window.addEventListener('beforeunload', () => {
+      localStorage.setItem('scrollPosition', window.scrollY);
+    });
+
+    // 页面加载时读取存储值并设置选中项和滚动位置
+    window.addEventListener('load', () => {
+      const savedValue = JSON.parse(localStorage.getItem('selectedWordGroup'));
+      if (savedValue) {
+        select.value = savedValue;
+      }
+
+      const scrollPosition = localStorage.getItem('scrollPosition');
+      if (scrollPosition) {
+        window.scrollTo(0, parseInt(scrollPosition));
+      }
+    });
+
+    select.addEventListener('change', () => {
+      const value = select.value;
+      if (value) {
+        changeWordsSource(value);
+        // 保存选中值到 localStorage
+        localStorage.setItem('selectedWordGroup', JSON.stringify(value));
+      }
+    })
+  </script>
+</body>
+</script>
 </body>
 
 </html>

@@ -34,7 +34,33 @@ class GameRender {
     // 保存游戏渲染的容器元素
     this.container = container;
   }
-
+  modifyWordList(wordList) {
+    // 处理原始单词列表，为每个单词和翻译添加索引，方便后续匹配和操作
+    this.wordList = wordList.map((wordData, index) => {
+      return {
+        // 包含单词值和对应索引的对象
+        word: {
+          value: wordData.word,
+          index,
+        },
+        // 包含翻译值和对应索引的对象
+        translation: {
+          value: wordData.translation,
+          index,
+        }
+      }
+    })
+    // 检查本地存储中是否存在随机单词列表
+    if (!localStorage.getItem('randomWordList')) {
+      // 若不存在，则从完整单词列表中随机选取 10 个单词作为本次游戏的随机单词列表
+      this.randomWordList = [...this.wordList].sort(() => Math.random() - 0.5).splice(0, 10);
+      // 将随机选取的单词列表存储到本地存储中
+      localStorage.setItem('randomWordList', JSON.stringify(this.randomWordList));
+    } else {
+      // 若本地存储中已存在随机单词列表，则从本地存储中获取
+      this.randomWordList = JSON.parse(localStorage.getItem('randomWordList'));
+    }
+  }
   /**
    * 获取左侧卡片容器元素
    * @returns {HTMLElement} 左侧卡片容器元素
@@ -271,6 +297,10 @@ class GameRender {
         rightMap[i].classList.add('error');
       }
     }
+  }
+  static removeLocalStorage() {
+    localStorage.removeItem('userResult');
+    localStorage.removeItem('randomWordList');
   }
 }
 export default GameRender;

@@ -1,0 +1,720 @@
+{
+    "title": "四级词汇（非高中）",
+    "CET4": [
+        {
+            "time": "2025-04-05",
+            "words": [
+                {
+                    "word": "abrupt",
+                    "pronounciation": "əˈbrʌpt",
+                    "chineseMeaning": "突然的，意外的",
+                    "example": "The abrupt change in weather caught everyone off guard.",
+                    "chineseOfExample": "天气的突然变化让所有人都措手不及。"
+                },
+                {
+                    "word": "conceive",
+                    "pronounciation": "kənˈsiːv",
+                    "chineseMeaning": "构思，设想；怀孕",
+                    "example": "Scientists first conceived the idea of the atomic bomb in the 1930s.",
+                    "chineseOfExample": "科学家们在20世纪30年代首次构思出原子弹的想法。"
+                },
+                {
+                    "word": "endeavor",
+                    "pronounciation": "ɪnˈdevə(r)",
+                    "chineseMeaning": "努力，尽力；尝试",
+                    "example": "We must constantly endeavor to improve our work.",
+                    "chineseOfExample": "我们必须不断努力改进我们的工作。"
+                },
+                {
+                    "word": "fragile",
+                    "pronounciation": "ˈfrædʒaɪl",
+                    "chineseMeaning": "易碎的，脆弱的",
+                    "example": "The fragile glassware needs to be packed carefully.",
+                    "chineseOfExample": "易碎的玻璃器皿需要小心包装。"
+                },
+                {
+                    "word": "hesitate",
+                    "pronounciation": "ˈhezɪteɪt",
+                    "chineseMeaning": "犹豫，迟疑",
+                    "example": "Don't hesitate to ask for help if you need it.",
+                    "chineseOfExample": "如果你需要帮助，不要犹豫开口。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "account for",
+                    "chineseMeaning": "解释；占（比例）",
+                    "example": "Can you account for your absence last Friday?",
+                    "chineseOfExample": "你能解释一下上周五你为什么缺席吗？"
+                },
+                {
+                    "phrase": "break down",
+                    "chineseMeaning": "分解；出故障；崩溃",
+                    "example": "The old car broke down on the way to the beach.",
+                    "chineseOfExample": "那辆旧车在去海滩的路上抛锚了。"
+                },
+                {
+                    "phrase": "figure out",
+                    "chineseMeaning": "弄清楚，解决",
+                    "example": "I need some time to figure out the problem.",
+                    "chineseOfExample": "我需要一些时间来解决这个问题。"
+                },
+                {
+                    "phrase": "give rise to",
+                    "chineseMeaning": "引起，导致",
+                    "example": "The new policy may give rise to some unexpected problems.",
+                    "chineseOfExample": "新政策可能会引发一些意想不到的问题。"
+                },
+                {
+                    "phrase": "keep up with",
+                    "chineseMeaning": "跟上，不落后",
+                    "example": "It's hard to keep up with the latest technology.",
+                    "chineseOfExample": "很难跟上最新的技术发展。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-06",
+            "words": [
+                {
+                    "word": "acquaint",
+                    "pronounciation": "əˈkweɪnt",
+                    "chineseMeaning": "使熟悉；使认识",
+                    "example": "Let me acquaint you with the new regulations.",
+                    "chineseOfExample": "让我来给你介绍一下新规定。"
+                },
+                {
+                    "word": "bypass",
+                    "pronounciation": "ˈbaɪpɑːs",
+                    "chineseMeaning": "绕过；避开",
+                    "example": "We decided to bypass the city center to avoid traffic.",
+                    "chineseOfExample": "我们决定绕过市中心以避开交通拥堵。"
+                },
+                {
+                    "word": "comply",
+                    "pronounciation": "kəmˈplaɪ",
+                    "chineseMeaning": "遵守；顺从",
+                    "example": "All employees must comply with the safety regulations.",
+                    "chineseOfExample": "所有员工都必须遵守安全规定。"
+                },
+                {
+                    "word": "dilemma",
+                    "pronounciation": "daɪˈlemə",
+                    "chineseMeaning": "困境；进退两难",
+                    "example": "She found herself in a dilemma when choosing between two job offers.",
+                    "chineseOfExample": "在两份工作机会之间做选择时，她陷入了两难境地。"
+                },
+                {
+                    "word": "evoke",
+                    "pronounciation": "ɪˈvəʊk",
+                    "chineseMeaning": "唤起；引起",
+                    "example": "The old photo evoked memories of his childhood.",
+                    "chineseOfExample": "这张旧照片唤起了对他的童年的回忆。"
+                },
+                {
+                    "word": "formulate",
+                    "pronounciation": "ˈfɔːmjuleɪt",
+                    "chineseMeaning": "制定；规划；确切表达",
+                    "example": "The committee is trying to formulate a new policy.",
+                    "chineseOfExample": "委员会正在努力制定一项新政策。"
+                },
+                {
+                    "word": "gratitude",
+                    "pronounciation": "ˈɡrætɪtjuːd",
+                    "chineseMeaning": "感激；感谢",
+                    "example": "She expressed her gratitude to the rescue team.",
+                    "chineseOfExample": "她向救援队表达了感激之情。"
+                },
+                {
+                    "word": "hesitation",
+                    "pronounciation": "ˌhezɪˈteɪʃn",
+                    "chineseMeaning": "犹豫；踌躇",
+                    "example": "Without hesitation, he jumped into the river to save the child.",
+                    "chineseOfExample": "他毫不犹豫地跳进河里去救那个孩子。"
+                },
+                {
+                    "word": "integrate",
+                    "pronounciation": "ˈɪntɪɡreɪt",
+                    "chineseMeaning": "使融入；使结合；整合",
+                    "example": "The new employees are quickly integrating into the company culture.",
+                    "chineseOfExample": "新员工正在迅速融入公司文化。"
+                },
+                {
+                    "word": "jeopardize",
+                    "pronounciation": "ˈdʒepədaɪz",
+                    "chineseMeaning": "危及；使陷入险境",
+                    "example": "His carelessness could jeopardize the entire project.",
+                    "chineseOfExample": "他的粗心大意可能会危及整个项目。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "adapt to",
+                    "chineseMeaning": "适应",
+                    "example": "It takes time to adapt to a new environment.",
+                    "chineseOfExample": "适应新环境需要时间。"
+                },
+                {
+                    "phrase": "break into",
+                    "chineseMeaning": "闯入；突然开始",
+                    "example": "Thieves broke into the house last night.",
+                    "chineseOfExample": "昨晚有小偷闯入了这所房子。"
+                },
+                {
+                    "phrase": "come across",
+                    "chineseMeaning": "偶然遇见；发现",
+                    "example": "I came across an old friend in the street yesterday.",
+                    "chineseOfExample": "我昨天在街上偶然遇到了一位老朋友。"
+                },
+                {
+                    "phrase": "drop out",
+                    "chineseMeaning": "退出；辍学",
+                    "example": "He decided to drop out of college to start his own business.",
+                    "chineseOfExample": "他决定从大学辍学去创业。"
+                },
+                {
+                    "phrase": "figure on",
+                    "chineseMeaning": "指望；打算",
+                    "example": "We figured on having a picnic this weekend.",
+                    "chineseOfExample": "我们打算这个周末去野餐。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-07",
+            "words": [
+                {
+                    "word": "kinship",
+                    "pronounciation": "ˈkɪnʃɪp",
+                    "chineseMeaning": "亲属关系；亲密关系",
+                    "example": "The strong kinship between the siblings was evident.",
+                    "chineseOfExample": "兄弟姐妹之间的亲密关系显而易见。"
+                },
+                {
+                    "word": "legitimate",
+                    "pronounciation": "lɪˈdʒɪtɪmət",
+                    "chineseMeaning": "合法的；正当的",
+                    "example": "He has a legitimate reason for being late.",
+                    "chineseOfExample": "他迟到有正当的理由。"
+                },
+                {
+                    "word": "meticulous",
+                    "pronounciation": "mɪˈtɪkjələs",
+                    "chineseMeaning": "一丝不苟的；严谨的",
+                    "example": "The artist was meticulous in his work.",
+                    "chineseOfExample": "这位艺术家工作一丝不苟。"
+                },
+                {
+                    "word": "notorious",
+                    "pronounciation": "nəʊˈtɔːriəs",
+                    "chineseMeaning": "臭名昭著的；声名狼藉的",
+                    "example": "The city is notorious for its high crime rate.",
+                    "chineseOfExample": "这座城市因犯罪率高而臭名昭著。"
+                },
+                {
+                    "word": "obsolete",
+                    "pronounciation": "ˌɒbsəˈliːt",
+                    "chineseMeaning": "过时的；废弃的",
+                    "example": "This type of technology has become obsolete.",
+                    "chineseOfExample": "这种技术已经过时了。"
+                },
+                {
+                    "word": "preclude",
+                    "pronounciation": "prɪˈkluːd",
+                    "chineseMeaning": "阻止；排除；妨碍",
+                    "example": "Lack of time may preclude us from finishing the project.",
+                    "chineseOfExample": "时间不足可能会妨碍我们完成这个项目。"
+                },
+                {
+                    "word": "quantify",
+                    "pronounciation": "ˈkwɒntɪfaɪ",
+                    "chineseMeaning": "量化；确定数量",
+                    "example": "It's difficult to quantify the impact of this decision.",
+                    "chineseOfExample": "很难量化这个决定的影响。"
+                },
+                {
+                    "word": "reconcile",
+                    "pronounciation": "ˈrekənsaɪl",
+                    "chineseMeaning": "使和解；使协调",
+                    "example": "They finally reconciled their differences.",
+                    "chineseOfExample": "他们最终调和了分歧。"
+                },
+                {
+                    "word": "saturate",
+                    "pronounciation": "ˈsætʃəreɪt",
+                    "chineseMeaning": "使饱和；使充满",
+                    "example": "The market is saturated with similar products.",
+                    "chineseOfExample": "市场上充斥着类似的产品。"
+                },
+                {
+                    "word": "trivial",
+                    "pronounciation": "ˈtrɪviəl",
+                    "chineseMeaning": "琐碎的；微不足道的",
+                    "example": "Don't waste your time on trivial matters.",
+                    "chineseOfExample": "不要把时间浪费在琐碎的事情上。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "get along with",
+                    "chineseMeaning": "与……相处；进展",
+                    "example": "She gets along well with her colleagues.",
+                    "chineseOfExample": "他和同事们相处得很好。"
+                },
+                {
+                    "phrase": "hold up",
+                    "chineseMeaning": "举起；支撑；耽搁",
+                    "example": "The construction work is holding up traffic.",
+                    "chineseOfExample": "施工工作阻碍了交通。"
+                },
+                {
+                    "phrase": "look forward to",
+                    "chineseMeaning": "期待；盼望",
+                    "example": "I'm looking forward to your reply.",
+                    "chineseOfExample": "我期待着你的回复。"
+                },
+                {
+                    "phrase": "put off",
+                    "chineseMeaning": "推迟；拖延",
+                    "example": "Don't put off until tomorrow what you can do today.",
+                    "chineseOfExample": "今日事今日毕。"
+                },
+                {
+                    "phrase": "take over",
+                    "chineseMeaning": "接管；接收",
+                    "example": "The new manager will take over next week.",
+                    "chineseOfExample": "新经理下周将接管工作。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-08",
+            "words": [
+                {
+                    "word": "ultimate",
+                    "pronounciation": "ˈʌltɪmət",
+                    "chineseMeaning": "最终的；极限的；根本的",
+                    "example": "Our ultimate goal is to improve people's living standards.",
+                    "chineseOfExample": "我们的最终目标是提高人们的生活水平。"
+                },
+                {
+                    "word": "versatile",
+                    "pronounciation": "ˈvɜːsətaɪl",
+                    "chineseMeaning": "多才多艺的；多功能的",
+                    "example": "He is a versatile actor who can play various roles.",
+                    "chineseOfExample": "他是一位多才多艺的演员，能扮演各种角色。"
+                },
+                {
+                    "word": "warrant",
+                    "pronounciation": "ˈwɒrənt",
+                    "chineseMeaning": "保证；担保；授权",
+                    "example": "The evidence does not warrant such a conclusion.",
+                    "chineseOfExample": "这些证据不足以得出这样的结论。"
+                },
+                {
+                    "word": "xenophobia",
+                    "pronounciation": "ˌzenəˈfəʊbiə",
+                    "chineseMeaning": "仇外心理；排外主义",
+                    "example": "Xenophobia is a serious social problem in some countries.",
+                    "chineseOfExample": "仇外心理在一些国家是一个严重的社会问题。"
+                },
+                {
+                    "word": "yell",
+                    "pronounciation": "jel",
+                    "chineseMeaning": "呼喊；叫嚷",
+                    "example": "She yelled for help when she saw the fire.",
+                    "chineseOfExample": "她看到火灾时大声呼救。"
+                },
+                {
+                    "word": "zeal",
+                    "pronounciation": "zel",
+                    "chineseMeaning": "热情；热忱",
+                    "example": "His zeal for the project is inspiring.",
+                    "chineseOfExample": "他对这个项目的热情很鼓舞人心。"
+                },
+                {
+                    "word": "abnormal",
+                    "pronounciation": "æbˈnɔːml",
+                    "chineseMeaning": "不正常的；反常的",
+                    "example": "The doctor said his blood pressure was abnormal.",
+                    "chineseOfExample": "医生说他的血压不正常。"
+                },
+                {
+                    "word": "benevolent",
+                    "pronounciation": "bəˈnevələnt",
+                    "chineseMeaning": "仁慈的；慈善的",
+                    "example": "The old man is very benevolent and often helps the poor.",
+                    "chineseOfExample": "这位老人非常仁慈，经常帮助穷人。"
+                },
+                {
+                    "word": "compulsory",
+                    "pronounciation": "kəmˈpʌlsəri",
+                    "chineseMeaning": "强制的；义务的",
+                    "example": "Education is compulsory for children in most countries.",
+                    "chineseOfExample": "在大多数国家，儿童接受教育是义务性的。"
+                },
+                {
+                    "word": "diligent",
+                    "pronounciation": "ˈdɪlɪdʒənt",
+                    "chineseMeaning": "勤奋的；勤勉的",
+                    "example": "She is a diligent student who always gets good grades.",
+                    "chineseOfExample": "她是一个勤奋的学生，总是取得好成绩。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "back up",
+                    "chineseMeaning": "支持；备份；倒退",
+                    "example": "I will back you up in this matter.",
+                    "chineseOfExample": "在这件事上我会支持你。"
+                },
+                {
+                    "phrase": "come up with",
+                    "chineseMeaning": "提出；想出",
+                    "example": "Can you come up with a better solution?",
+                    "chineseOfExample": "你能想出一个更好的解决方案吗？"
+                },
+                {
+                    "phrase": "drop off",
+                    "chineseMeaning": "减少；落下；让……下车",
+                    "example": "The temperature will drop off tonight.",
+                    "chineseOfExample": "今晚气温会下降。"
+                },
+                {
+                    "phrase": "figure out",
+                    "chineseMeaning": "弄清楚；解决",
+                    "example": "I need some time to figure out this problem.",
+                    "chineseOfExample": "我需要一些时间来解决这个问题。"
+                },
+                {
+                    "phrase": "give in",
+                    "chineseMeaning": "屈服；让步",
+                    "example": "Don't give in to pressure easily.",
+                    "chineseOfExample": "不要轻易向压力屈服。"
+                }
+            ]
+        },
+
+        {
+            "time": "2025-04-09",
+            "words": [
+                {
+                    "word": "adverse",
+                    "pronounciation": "ˈædvɜːs",
+                    "chineseMeaning": "不利的；有害的",
+                    "example": "The adverse weather conditions affected the crop yield.",
+                    "chineseOfExample": "不利的天气条件影响了农作物的产量。"
+                },
+                {
+                    "word": "blunder",
+                    "pronounciation": "ˈblʌndə(r)",
+                    "chineseMeaning": "愚蠢的错误；犯大错",
+                    "example": "He made a blunder by forgetting the important meeting.",
+                    "chineseOfExample": "他犯了个大错，忘记了重要会议。"
+                },
+                {
+                    "word": "conducive",
+                    "pronounciation": "kənˈdjuːsɪv",
+                    "chineseMeaning": "有益的；有助于……的",
+                    "example": "A quiet environment is conducive to study.",
+                    "chineseOfExample": "安静的环境有助于学习。"
+                },
+                {
+                    "word": "dubious",
+                    "pronounciation": "ˈdjuːbiəs",
+                    "chineseMeaning": "可疑的；不确定的",
+                    "example": "His explanation seems dubious.",
+                    "chineseOfExample": "他的解释似乎可疑。"
+                },
+                {
+                    "word": "exquisite",
+                    "pronounciation": "ɪkˈskwɪzɪt",
+                    "chineseMeaning": "精美的；精致的；敏锐的",
+                    "example": "She wore an exquisite diamond necklace.",
+                    "chineseOfExample": "她戴了一条精美的钻石项链。"
+                },
+                {
+                    "word": "fraud",
+                    "pronounciation": "frɔːd",
+                    "chineseMeaning": "欺诈；骗子；假货",
+                    "example": "The company was involved in a fraud scandal.",
+                    "chineseOfExample": "该公司卷入了一起欺诈丑闻。"
+                },
+                {
+                    "word": "gigantic",
+                    "pronounciation": "dʒaɪˈɡæntɪk",
+                    "chineseMeaning": "巨大的；庞大的",
+                    "example": "The new shopping mall is gigantic.",
+                    "chineseOfExample": "新的购物中心非常庞大。"
+                },
+                {
+                    "word": "hinder",
+                    "pronounciation": "ˈhɪndə(r)",
+                    "chineseMeaning": "阻碍；妨碍",
+                    "example": "Lack of funds may hinder the project's progress.",
+                    "chineseOfExample": "资金不足可能会阻碍项目的进展。"
+                },
+                {
+                    "word": "immerse",
+                    "pronounciation": "ɪˈmɜːs",
+                    "chineseMeaning": "使沉浸于；使陷入",
+                    "example": "He immersed himself in his studies.",
+                    "chineseOfExample": "他全身心投入到学习中。"
+                },
+                {
+                    "word": "juvenile",
+                    "pronounciation": "ˈdʒuːvənaɪl",
+                    "chineseMeaning": "青少年的；幼稚的",
+                    "example": "Juvenile crime is a serious social problem.",
+                    "chineseOfExample": "青少年犯罪是一个严重的社会问题。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "bring about",
+                    "chineseMeaning": "导致；引起",
+                    "example": "The new policy brought about many changes.",
+                    "chineseOfExample": "新政策带来了许多变化。"
+                },
+                {
+                    "phrase": "call off",
+                    "chineseMeaning": "取消；放弃",
+                    "example": "The football match was called off due to bad weather.",
+                    "chineseOfExample": "由于天气恶劣，足球比赛被取消了。"
+                },
+                {
+                    "phrase": "cut down on",
+                    "chineseMeaning": "减少；削减",
+                    "example": "We should cut down on our expenses.",
+                    "chineseOfExample": "我们应该削减开支。"
+                },
+                {
+                    "phrase": "get over",
+                    "chineseMeaning": "克服；恢复；熬过",
+                    "example": "It took her a long time to get over the breakup.",
+                    "chineseOfExample": "她花了很长时间才从分手中走出来。"
+                },
+                {
+                    "phrase": "look into",
+                    "chineseMeaning": "调查；研究",
+                    "example": "The police will look into the case.",
+                    "chineseOfExample": "警方将调查这个案件。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-10",
+            "words": [
+                {
+                    "word": "keen",
+                    "pronounciation": "kiːn",
+                    "chineseMeaning": "渴望的；敏锐的；强烈的",
+                    "example": "She is keen on learning new languages.",
+                    "chineseOfExample": "她渴望学习新语言。"
+                },
+                {
+                    "word": "lucrative",
+                    "pronounciation": "ˈluːkrətɪv",
+                    "chineseMeaning": "有利可图的；赚钱的",
+                    "example": "The business turned out to be very lucrative.",
+                    "chineseOfExample": "这项生意结果非常赚钱。"
+                },
+                {
+                    "word": "meticulous",
+                    "pronounciation": "mɪˈtɪkjələs",
+                    "chineseMeaning": "一丝不苟的；严谨的",
+                    "example": "The scientist was meticulous in his experiments.",
+                    "chineseOfExample": "这位科学家做实验一丝不苟。"
+                },
+                {
+                    "word": "notorious",
+                    "pronounciation": "nəʊˈtɔːriəs",
+                    "chineseMeaning": "臭名昭著的；声名狼藉的",
+                    "example": "The criminal is notorious for his violent crimes.",
+                    "chineseOfExample": "这个罪犯因暴力犯罪而臭名昭著。"
+                },
+                {
+                    "word": "oblige",
+                    "pronounciation": "əˈblaɪdʒ",
+                    "chineseMeaning": "迫使；责成；施恩于",
+                    "example": "The law obliges parents to send their children to school.",
+                    "chineseOfExample": "法律责成父母送孩子上学。"
+                },
+                {
+                    "word": "persistent",
+                    "pronounciation": "pəˈsɪstənt",
+                    "chineseMeaning": "坚持不懈的；持续的",
+                    "example": "He is persistent in his pursuit of success.",
+                    "chineseOfExample": "他坚持不懈地追求成功。"
+                },
+                {
+                    "word": "quench",
+                    "pronounciation": "kwentʃ",
+                    "chineseMeaning": "解渴；扑灭；抑制",
+                    "example": "A cold drink quenched his thirst.",
+                    "chineseOfExample": "一杯冷饮解了他的渴。"
+                },
+                {
+                    "word": "resemble",
+                    "pronounciation": "rɪˈzembl",
+                    "chineseMeaning": "像；类似",
+                    "example": "The two sisters resemble each other very much.",
+                    "chineseOfExample": "两姐妹长得非常相像。"
+                },
+                {
+                    "word": "sophisticated",
+                    "pronounciation": "səˈfɪstɪkeɪtɪd",
+                    "chineseMeaning": "复杂的；精致的；世故的",
+                    "example": "The new technology is very sophisticated.",
+                    "chineseOfExample": "这项新技术非常复杂。"
+                },
+                {
+                    "word": "tempt",
+                    "pronounciation": "tempt",
+                    "chineseMeaning": "引诱；诱惑",
+                    "example": "The delicious smell tempted him to eat more.",
+                    "chineseOfExample": "那诱人的香味诱使他多吃了一些。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "give up",
+                    "chineseMeaning": "放弃；投降",
+                    "example": "Don't give up easily, you can make it.",
+                    "chineseOfExample": "别轻易放弃，你能成功的。"
+                },
+                {
+                    "phrase": "go over",
+                    "chineseMeaning": "复习；检查；仔细查看",
+                    "example": "Let's go over the lessons before the exam.",
+                    "chineseOfExample": "考试前咱们复习一下功课吧。"
+                },
+                {
+                    "phrase": "hold on",
+                    "chineseMeaning": "坚持；等一等",
+                    "example": "Hold on a minute, I'm coming.",
+                    "chineseOfExample": "等一下，我就来。"
+                },
+                {
+                    "phrase": "keep on",
+                    "chineseMeaning": "继续；坚持",
+                    "example": "Keep on trying, and you will succeed.",
+                    "chineseOfExample": "继续努力，你会成功的。"
+                },
+                {
+                    "phrase": "look after",
+                    "chineseMeaning": "照顾；照料",
+                    "example": "She looks after her elderly parents.",
+                    "chineseOfExample": "她照顾年迈的父母。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-11",
+            "words": [
+                {
+                    "word": "unanimous",
+                    "pronounciation": "juːˈnænɪməs",
+                    "chineseMeaning": "全体一致的；无异议的",
+                    "example": "The committee was unanimous in its decision.",
+                    "chineseOfExample": "委员会在决策上达成了一致意见。"
+                },
+                {
+                    "word": "vibrant",
+                    "pronounciation": "ˈvaɪbrənt",
+                    "chineseMeaning": "充满活力的；鲜艳的",
+                    "example": "The city center is a vibrant place.",
+                    "chineseOfExample": "市中心是个充满活力的地方。"
+                },
+                {
+                    "word": "wary",
+                    "pronounciation": "ˈweəri",
+                    "chineseMeaning": "谨慎的；机警的",
+                    "example": "He is wary of strangers.",
+                    "chineseOfExample": "他对陌生人很警惕。"
+                },
+                {
+                    "word": "xylophone",
+                    "pronounciation": "ˈzaɪləfəʊn",
+                    "chineseMeaning": "木琴",
+                    "example": "The child played a beautiful tune on the xylophone.",
+                    "chineseOfExample": "孩子在木琴上演奏了一首美妙的曲子。"
+                },
+                {
+                    "word": "yacht",
+                    "pronounciation": "jɒt",
+                    "chineseMeaning": "游艇；快艇",
+                    "example": "They went on a luxury yacht for a vacation.",
+                    "chineseOfExample": "他们乘坐豪华游艇去度假。"
+                },
+                {
+                    "word": "zealous",
+                    "pronounciation": "ˈzeləs",
+                    "chineseMeaning": "热心的；热情的",
+                    "example": "The zealous fans cheered for their team.",
+                    "chineseOfExample": "热情的球迷们为他们的球队欢呼。"
+                },
+                {
+                    "word": "abide",
+                    "pronounciation": "əˈbaɪd",
+                    "chineseMeaning": "遵守；忍受",
+                    "example": "Everyone must abide by the rules.",
+                    "chineseOfExample": "每个人都必须遵守规则。"
+                },
+                {
+                    "word": "besiege",
+                    "pronounciation": "bɪˈsiːdʒ",
+                    "chineseMeaning": "围攻；困扰",
+                    "example": "The city was besieged by the enemy.",
+                    "chineseOfExample": "这座城市被敌人围攻。"
+                },
+                {
+                    "word": "consolidate",
+                    "pronounciation": "kənˈsɒlɪdeɪt",
+                    "chineseMeaning": "巩固；加强；合并",
+                    "example": "The company plans to consolidate its position in the market.",
+                    "chineseOfExample": "该公司计划巩固其在市场上的地位。"
+                },
+                {
+                    "word": "dilate",
+                    "pronounciation": "daɪˈleɪt",
+                    "chineseMeaning": "扩大；膨胀；详述",
+                    "example": "The pupils dilate in the dark.",
+                    "chineseOfExample": "瞳孔在黑暗中会放大。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "put up with",
+                    "chineseMeaning": "忍受；容忍",
+                    "example": "I can't put up with his bad temper anymore.",
+                    "chineseOfExample": "我再也忍受不了他的坏脾气了。"
+                },
+                {
+                    "phrase": "take on",
+                    "chineseMeaning": "承担；呈现；雇用",
+                    "example": "He decided to take on more responsibilities.",
+                    "chineseOfExample": "他决定承担更多的责任。"
+                },
+                {
+                    "phrase": "turn down",
+                    "chineseMeaning": "拒绝；调低",
+                    "example": "She turned down his proposal.",
+                    "chineseOfExample": "她拒绝了他的求婚。"
+                },
+                {
+                    "phrase": "work out",
+                    "chineseMeaning": "解决；算出；锻炼",
+                    "example": "We need to work out a solution to this problem.",
+                    "chineseOfExample": "我们需要想出解决这个问题的办法。"
+                },
+                {
+                    "phrase": "wrap up",
+                    "chineseMeaning": "完成；包裹；总结",
+                    "example": "Let's wrap up this meeting.",
+                    "chineseOfExample": "咱们结束这次会议吧。"
+                }
+            ]
+        }
+    ]
+}

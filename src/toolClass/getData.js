@@ -1,10 +1,17 @@
 class WordList {
-  static uri = './public/json/words.json';
+  static uri = localStorage.getItem('uri') ? JSON.parse(localStorage.getItem('uri')) : './public/json/words3.json'
+
   async fetchWords() {
-    const response = await fetch(uri);
+    const response = await fetch(WordList.uri);
     const json = await response.json();
     let words = [];
-    for (const data of json.CET6) {
+    let ArrayKey;
+    for (const key in json) {
+      if (json[key] instanceof Array) {
+        ArrayKey = key;
+      }
+    }
+    for (const data of json[ArrayKey]) {
       const wordMap = data.words.map(wordData => {
         return {
           word: wordData.word,
@@ -24,7 +31,7 @@ class WordList {
     return this.phrase;
   }
   async fetchPhrases() {
-    const response = await fetch(uri);
+    const response = await fetch(WordList.uri);
     const json = await response.json();
     let phrases = [];
     for (const data of json.CET6) {
@@ -38,6 +45,5 @@ class WordList {
     }
   }
 }
-const wordList = new WordList();
 
-export default wordList;
+export default WordList;
