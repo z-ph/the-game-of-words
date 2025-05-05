@@ -1,5 +1,5 @@
 class WordList {
-  static uri = localStorage.getItem('uri') ? JSON.parse(localStorage.getItem('uri')) : './public/json/words3.json'
+  static uri = localStorage.getItem('uri') ? JSON.parse(localStorage.getItem('uri')) : './public/json/words2.json'
 
   async fetchWords() {
     const response = await fetch(WordList.uri);
