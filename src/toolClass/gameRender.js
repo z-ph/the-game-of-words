@@ -246,9 +246,10 @@ class GameRender {
   }
 
   /**
-   * 检查用户当前排列的结果是否正确，保存结果并调用渲染方法显示检查结果
+   * 检查用户当前排列的结果是否正确，保存结果并调用渲染方法显示检查结果,并保存到本地存储中
    */
   checkResult() {
+    //保存用户当前排列的单词和翻译结果到本地存储
     this.saveUserResult();
     const userResult = JSON.parse(localStorage.getItem('userResult'));
     const leftMap = userResult.map(data => data.word);
@@ -301,6 +302,20 @@ class GameRender {
   static removeLocalStorage() {
     localStorage.removeItem('userResult');
     localStorage.removeItem('randomWordList');
+  }
+  static removeColor() {
+    const left = document.querySelector('.left');
+    const right = document.querySelector('.right');
+    const leftMap = Array.from(left.querySelectorAll('.card'));
+    const rightMap = Array.from(right.querySelectorAll('.card'));
+    leftMap.forEach(card => {
+      card.classList.remove('correct');
+      card.classList.remove('error');
+    })
+    rightMap.forEach(card => {
+      card.classList.remove('correct');
+      card.classList.remove('error');
+    })
   }
 }
 export default GameRender;

@@ -45,3 +45,6 @@ saveButton.addEventListener('click', appRender.saveUserResult.bind(appRender))
 messUpButton.addEventListener('click', appRender.messUp.bind(appRender))
 changeWordsGroupButton.addEventListener('click', appRender.changeWordsGroup.bind(appRender))
 checkResultButton.addEventListener('click', appRender.checkResult.bind(appRender))
+appContainer.addEventListener('dragstart', (e) => {
+  GameRender.removeColor();
+})
