@@ -1,0 +1,826 @@
+{
+    "title": "专四词汇",
+    "TEM4": [
+        {
+            "time": "2025-04-10",
+            "words": [
+                {
+                    "word": "aberrant",
+                    "pronounciation": "æˈberənt",
+                    "chineseMeaning": "异常的，反常的",
+                    "example": "The aberrant behavior of the student worried the teacher.",
+                    "chineseOfExample": "这个学生的异常行为让老师很担心。"
+                },
+                {
+                    "word": "acumen",
+                    "pronounciation": "əˈkjuːmən",
+                    "chineseMeaning": "敏锐，精明",
+                    "example": "His business acumen made him a successful entrepreneur.",
+                    "chineseOfExample": "他的商业敏锐度使他成为了一名成功的企业家。"
+                },
+                {
+                    "word": "alacrity",
+                    "pronounciation": "əˈlækrəti",
+                    "chineseMeaning": "敏捷，乐意",
+                    "example": "She accepted the invitation with alacrity.",
+                    "chineseOfExample": "她欣然接受了邀请。"
+                },
+                {
+                    "word": "ambiguous",
+                    "pronounciation": "æmˈbɪɡjuəs",
+                    "chineseMeaning": "模棱两可的，含糊不清的",
+                    "example": "The ambiguous statement caused confusion among the listeners.",
+                    "chineseOfExample": "这个含糊不清的声明在听众中引起了困惑。"
+                },
+                {
+                    "word": "anomaly",
+                    "pronounciation": "əˈnɒməli",
+                    "chineseMeaning": "异常，反常事物",
+                    "example": "The sudden drop in temperature was an anomaly for this time of year.",
+                    "chineseOfExample": "气温的突然下降在一年的这个时候是反常现象。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "at odds with",
+                    "chineseMeaning": "与……不一致；与……争吵",
+                    "example": "His actions are at odds with his words.",
+                    "chineseOfExample": "他的行动与他的言语不一致。"
+                },
+                {
+                    "phrase": "by leaps and bounds",
+                    "chineseMeaning": "飞跃地，突飞猛进地",
+                    "example": "The technology is advancing by leaps and bounds.",
+                    "chineseOfExample": "这项技术正在突飞猛进地发展。"
+                },
+                {
+                    "phrase": "in lieu of",
+                    "chineseMeaning": "代替",
+                    "example": "He gave me a gift card in lieu of a present.",
+                    "chineseOfExample": "他给了我一张礼品卡代替礼物。"
+                },
+                {
+                    "phrase": "on the verge of",
+                    "chineseMeaning": "接近于，濒于",
+                    "example": "The company is on the verge of bankruptcy.",
+                    "chineseOfExample": "这家公司濒临破产。"
+                },
+                {
+                    "phrase": "to the letter",
+                    "chineseMeaning": "严格地，不折不扣地",
+                    "example": "She followed the instructions to the letter.",
+                    "chineseOfExample": "她严格按照指示行事。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-11",
+            "words": [
+                {
+                    "word": "affinity",
+                    "pronounciation": "əˈfɪnəti",
+                    "chineseMeaning": "密切关系；吸引力",
+                    "example": "She has an affinity for languages.",
+                    "chineseOfExample": "她对语言有天赋。"
+                },
+                {
+                    "word": "alleviate",
+                    "pronounciation": "əˈliːvieɪt",
+                    "chineseMeaning": "减轻，缓和",
+                    "example": "The new medicine alleviated his pain.",
+                    "chineseOfExample": "新药减轻了他的痛苦。"
+                },
+                {
+                    "word": "ameliorate",
+                    "pronounciation": "əˈmiːliəreɪt",
+                    "chineseMeaning": "改善，改进",
+                    "example": "They took steps to ameliorate the living conditions.",
+                    "chineseOfExample": "他们采取措施改善生活条件。"
+                },
+                {
+                    "word": "anecdote",
+                    "pronounciation": "ˈænɪkdəʊt",
+                    "chineseMeaning": "轶事，趣闻",
+                    "example": "He told us some amusing anecdotes about his childhood.",
+                    "chineseOfExample": "他给我们讲了一些他童年的趣事。"
+                },
+                {
+                    "word": "antagonize",
+                    "pronounciation": "ænˈtæɡənaɪz",
+                    "chineseMeaning": "使敌对，使对抗",
+                    "example": "His remarks antagonized many people.",
+                    "chineseOfExample": "他的言论激怒了很多人。"
+                },
+                {
+                    "word": "austere",
+                    "pronounciation": "ɔːˈstɪə(r)",
+                    "chineseMeaning": "严峻的；简朴的",
+                    "example": "The monks lived an austere life.",
+                    "chineseOfExample": "僧侣们过着简朴的生活。"
+                },
+                {
+                    "word": "banal",
+                    "pronounciation": "bəˈnɑːl",
+                    "chineseMeaning": "平庸的，陈腐的",
+                    "example": "His speech was full of banal clichés.",
+                    "chineseOfExample": "他的演讲充满了陈词滥调。"
+                },
+                {
+                    "word": "belligerent",
+                    "pronounciation": "bəˈlɪdʒərənt",
+                    "chineseMeaning": "好战的，挑起战争的",
+                    "example": "The belligerent country refused to negotiate.",
+                    "chineseOfExample": "这个好战的国家拒绝谈判。"
+                },
+                {
+                    "word": "cajole",
+                    "pronounciation": "kəˈdʒəʊl",
+                    "chineseMeaning": "哄骗，劝诱",
+                    "example": "She managed to cajole him into helping her.",
+                    "chineseOfExample": "她成功哄骗他来帮自己。"
+                },
+                {
+                    "word": "capricious",
+                    "pronounciation": "kəˈprɪʃəs",
+                    "chineseMeaning": "反复无常的，任性的",
+                    "example": "The weather here is capricious.",
+                    "chineseOfExample": "这里的天气变幻无常。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "be at loggerheads with",
+                    "chineseMeaning": "与……争执，与……不和",
+                    "example": "The two parties are at loggerheads over the budget.",
+                    "chineseOfExample": "两党在预算问题上争执不下。"
+                },
+                {
+                    "phrase": "be privy to",
+                    "chineseMeaning": "得知，了解（秘密等）",
+                    "example": "Only a few people were privy to the details of the plan.",
+                    "chineseOfExample": "只有少数人知道计划的细节。"
+                },
+                {
+                    "phrase": "bide one's time",
+                    "chineseMeaning": "等待时机",
+                    "example": "He decided to bide his time before making a move.",
+                    "chineseOfExample": "他决定等待时机再行动。"
+                },
+                {
+                    "phrase": "call the shots",
+                    "chineseMeaning": "做主，发号施令",
+                    "example": "In this company, he calls the shots.",
+                    "chineseOfExample": "在这家公司里，他说了算。"
+                },
+                {
+                    "phrase": "cast aspersions on",
+                    "chineseMeaning": "诋毁，诽谤",
+                    "example": "Don't cast aspersions on his character.",
+                    "chineseOfExample": "别诋毁他的人格。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-12",
+            "words": [
+                {
+                    "word": "catalyst",
+                    "pronounciation": "ˈkætəlɪst",
+                    "chineseMeaning": "催化剂；促使变化的人或事物",
+                    "example": "The invention of the Internet was a catalyst for many social changes.",
+                    "chineseOfExample": "互联网的发明是许多社会变革的催化剂。"
+                },
+                {
+                    "word": "chastise",
+                    "pronounciation": "tʃæˈstaɪz",
+                    "chineseMeaning": "斥责，惩罚",
+                    "example": "The teacher chastised the student for being late.",
+                    "chineseOfExample": "老师因学生迟到而斥责了他。"
+                },
+                {
+                    "word": "circumspect",
+                    "pronounciation": "ˈsɜːrkəmspekt",
+                    "chineseMeaning": "谨慎的，小心的",
+                    "example": "Investors should be circumspect in volatile markets.",
+                    "chineseOfExample": "投资者在动荡的市场中应保持谨慎。"
+                },
+                {
+                    "word": "cogent",
+                    "pronounciation": "ˈkəʊdʒənt",
+                    "chineseMeaning": "有说服力的，令人信服的",
+                    "example": "He presented a cogent argument for the proposal.",
+                    "chineseOfExample": "他为该提案提出了有说服力的论据。"
+                },
+                {
+                    "word": "conducive",
+                    "pronounciation": "kənˈdjuːsɪv",
+                    "chineseMeaning": "有助于……的，有益的",
+                    "example": "A quiet environment is conducive to study.",
+                    "chineseOfExample": "安静的环境有助于学习。"
+                },
+                {
+                    "word": "contiguous",
+                    "pronounciation": "kənˈtɪɡjuəs",
+                    "chineseMeaning": "相邻的，毗连的",
+                    "example": "The two countries are contiguous.",
+                    "chineseOfExample": "这两个国家相邻。"
+                },
+                {
+                    "word": "contrite",
+                    "pronounciation": "ˈkɒntaɪt",
+                    "chineseMeaning": "悔悟的，懊悔的",
+                    "example": "He seemed genuinely contrite for his mistake.",
+                    "chineseOfExample": "他似乎真的为自己的错误感到懊悔。"
+                },
+                {
+                    "word": "cursory",
+                    "pronounciation": "ˈkɜːsəri",
+                    "chineseMeaning": "粗略的，草率的",
+                    "example": "He gave the report only a cursory glance.",
+                    "chineseOfExample": "他只是粗略地看了一眼报告。"
+                },
+                {
+                    "word": "debacle",
+                    "pronounciation": "deɪˈbɑːkl",
+                    "chineseMeaning": "惨败，崩溃",
+                    "example": "The company's new product launch was a debacle.",
+                    "chineseOfExample": "公司新产品的推出一败涂地。"
+                },
+                {
+                    "word": "decorum",
+                    "pronounciation": "dɪˈkɔːrəm",
+                    "chineseMeaning": "礼貌，端庄",
+                    "example": "She always behaves with great decorum.",
+                    "chineseOfExample": "她举止总是十分端庄。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "come to grips with",
+                    "chineseMeaning": "认真对待，努力对付",
+                    "example": "We need to come to grips with the reality of the situation.",
+                    "chineseOfExample": "我们需要认真面对现实情况。"
+                },
+                {
+                    "phrase": "cut corners",
+                    "chineseMeaning": "走捷径，偷工减料",
+                    "example": "You shouldn't cut corners when building a house.",
+                    "chineseOfExample": "盖房子时不应偷工减料。"
+                },
+                {
+                    "phrase": "do away with",
+                    "chineseMeaning": "废除，去掉",
+                    "example": "They decided to do away with the old system.",
+                    "chineseOfExample": "他们决定废除旧制度。"
+                },
+                {
+                    "phrase": "fall short of",
+                    "chineseMeaning": "未达到，不符合",
+                    "example": "His performance fell short of our expectations.",
+                    "chineseOfExample": "他的表现未达到我们的期望。"
+                },
+                {
+                    "phrase": "get the better of",
+                    "chineseMeaning": "战胜，克服；占上风",
+                    "example": "His anger got the better of him.",
+                    "chineseOfExample": "他没能控制住自己的怒火。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-13",
+            "words": [
+                {
+                    "word": "defunct",
+                    "pronounciation": "dɪˈfʌŋkt",
+                    "chineseMeaning": "已不存在的，失效的",
+                    "example": "The defunct company left many employees unemployed.",
+                    "chineseOfExample": "这家倒闭的公司让许多员工失业。"
+                },
+                {
+                    "word": "deleterious",
+                    "pronounciation": "ˌdelɪˈtɪəriəs",
+                    "chineseMeaning": "有害的，造成损害的",
+                    "example": "Smoking is deleterious to your health.",
+                    "chineseOfExample": "吸烟有害健康。"
+                },
+                {
+                    "word": "demagogue",
+                    "pronounciation": "ˈdeməɡɑːɡ",
+                    "chineseMeaning": "煽动者，蛊惑民心的政客",
+                    "example": "The demagogue stirred up the crowd with his false promises.",
+                    "chineseOfExample": "这个煽动者用虚假承诺煽动群众。"
+                },
+                {
+                    "word": "desiccate",
+                    "pronounciation": "ˈdesɪkeɪt",
+                    "chineseMeaning": "使干燥，脱水",
+                    "example": "The sun desiccated the soil.",
+                    "chineseOfExample": "太阳使土壤变得干燥。"
+                },
+                {
+                    "word": "diffident",
+                    "pronounciation": "ˈdɪfɪdənt",
+                    "chineseMeaning": "缺乏自信的，羞怯的",
+                    "example": "She was too diffident to speak in public.",
+                    "chineseOfExample": "她太羞怯，不敢在公众场合讲话。"
+                },
+                {
+                    "word": "diligent",
+                    "pronounciation": "ˈdɪlɪdʒənt",
+                    "chineseMeaning": "勤奋的，勤勉的",
+                    "example": "He is a diligent student who always studies hard.",
+                    "chineseOfExample": "他是个勤奋的学生，总是努力学习。"
+                },
+                {
+                    "word": "discreet",
+                    "pronounciation": "dɪˈskriːt",
+                    "chineseMeaning": "谨慎的，慎重的",
+                    "example": "She was very discreet about her personal life.",
+                    "chineseOfExample": "她对自己的私生活很谨慎。"
+                },
+                {
+                    "word": "disparage",
+                    "pronounciation": "dɪˈspærɪdʒ",
+                    "chineseMeaning": "贬低，诋毁",
+                    "example": "Don't disparage his efforts.",
+                    "chineseOfExample": "别贬低他的努力。"
+                },
+                {
+                    "word": "disseminate",
+                    "pronounciation": "dɪˈsemɪneɪt",
+                    "chineseMeaning": "传播，散布",
+                    "example": "The organization disseminates information about environmental protection.",
+                    "chineseOfExample": "该组织传播环保信息。"
+                },
+                {
+                    "word": "dormant",
+                    "pronounciation": "ˈdɔːmənt",
+                    "chineseMeaning": "休眠的，蛰伏的；暂停活动的",
+                    "example": "The volcano has been dormant for years.",
+                    "chineseOfExample": "这座火山已经休眠多年。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "give rise to",
+                    "chineseMeaning": "引起，导致",
+                    "example": "The new policy gave rise to a lot of controversy.",
+                    "chineseOfExample": "新政策引发了很多争议。"
+                },
+                {
+                    "phrase": "go the extra mile",
+                    "chineseMeaning": "多付出努力，加倍努力",
+                    "example": "He always goes the extra mile to help his customers.",
+                    "chineseOfExample": "他总是加倍努力帮助客户。"
+                },
+                {
+                    "phrase": "have an edge over",
+                    "chineseMeaning": "比……有优势",
+                    "example": "Our company has an edge over competitors in terms of technology.",
+                    "chineseOfExample": "我们公司在技术方面比竞争对手有优势。"
+                },
+                {
+                    "phrase": "in the long run",
+                    "chineseMeaning": "从长远来看",
+                    "example": "In the long run, exercise is beneficial for your health.",
+                    "chineseOfExample": "从长远来看，锻炼有益于健康。"
+                },
+                {
+                    "phrase": "keep tabs on",
+                    "chineseMeaning": "密切注意，监视",
+                    "example": "The parents keep tabs on their children's activities.",
+                    "chineseOfExample": "父母密切关注孩子的活动。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-14",
+            "words": [
+                {
+                    "word": "ebullient",
+                    "pronounciation": "ɪˈbʌliənt",
+                    "chineseMeaning": "热情奔放的，兴高采烈的",
+                    "example": "The ebullient crowd cheered for their team.",
+                    "chineseOfExample": "热情的人群为他们的队伍欢呼。"
+                },
+                {
+                    "word": "eclectic",
+                    "pronounciation": "ɪˈklektɪk",
+                    "chineseMeaning": "折中的，兼收并蓄的",
+                    "example": "Her taste in music is eclectic.",
+                    "chineseOfExample": "她的音乐品味很广泛。"
+                },
+                {
+                    "word": "efface",
+                    "pronounciation": "ɪˈfeɪs",
+                    "chineseMeaning": "抹去，消除；使自己不受注意",
+                    "example": "Time can efface the memory of past events.",
+                    "chineseOfExample": "时间能抹去对过去事件的记忆。"
+                },
+                {
+                    "word": "egregious",
+                    "pronounciation": "ɪˈɡriːdʒəs",
+                    "chineseMeaning": "极坏的，令人震惊的",
+                    "example": "His behavior at the party was egregious.",
+                    "chineseOfExample": "他在聚会上的行为极其恶劣。"
+                },
+                {
+                    "word": "elicit",
+                    "pronounciation": "ɪˈlɪsɪt",
+                    "chineseMeaning": "引出，诱出；得到",
+                    "example": "The teacher's question elicited a lot of responses from the students.",
+                    "chineseOfExample": "老师的问题引发了学生们很多回应。"
+                },
+                {
+                    "word": "elusive",
+                    "pronounciation": "ɪˈluːsɪv",
+                    "chineseMeaning": "难以捉摸的，不易找到的",
+                    "example": "The solution to the problem remains elusive.",
+                    "chineseOfExample": "这个问题的解决方案仍然难以找到。"
+                },
+                {
+                    "word": "emancipate",
+                    "pronounciation": "ɪˈmænsɪpeɪt",
+                    "chineseMeaning": "解放，使摆脱束缚",
+                    "example": "Education can emancipate people from ignorance.",
+                    "chineseOfExample": "教育能使人们摆脱愚昧。"
+                },
+                {
+                    "word": "empirical",
+                    "pronounciation": "ɪmˈpɪrɪkl",
+                    "chineseMeaning": "基于观察或实验的，经验主义的",
+                    "example": "Scientists rely on empirical evidence to support their theories.",
+                    "chineseOfExample": "科学家依靠实证来支持他们的理论。"
+                },
+                {
+                    "word": "enervate",
+                    "pronounciation": "ˈenəveɪt",
+                    "chineseMeaning": "使衰弱，使失去活力",
+                    "example": "The long illness enervated him.",
+                    "chineseOfExample": "长期的疾病使他虚弱。"
+                },
+                {
+                    "word": "enigma",
+                    "pronounciation": "ɪˈnɪɡmə",
+                    "chineseMeaning": "谜，神秘的人或事物",
+                    "example": "She is an enigma to me.",
+                    "chineseOfExample": "她对我来说是个谜。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "lay one's cards on the table",
+                    "chineseMeaning": "摊牌，把自己的想法和盘托出",
+                    "example": "It's time to lay our cards on the table and discuss the issue openly.",
+                    "chineseOfExample": "是时候摊牌，公开讨论这个问题了。"
+                },
+                {
+                    "phrase": "make a fuss about",
+                    "chineseMeaning": "对……大惊小怪",
+                    "example": "Don't make a fuss about a small mistake.",
+                    "chineseOfExample": "别为一个小错误大惊小怪。"
+                },
+                {
+                    "phrase": "on the ball",
+                    "chineseMeaning": "机警的，能干的",
+                    "example": "You need to be on the ball if you want to succeed in this business.",
+                    "chineseOfExample": "如果你想在这一行取得成功，就得机灵点。"
+                },
+                {
+                    "phrase": "put the cart before the horse",
+                    "chineseMeaning": "本末倒置",
+                    "example": "You're putting the cart before the horse by starting to build the house without a plan.",
+                    "chineseOfExample": "你没计划就开始盖房子，这是本末倒置。"
+                },
+                {
+                    "phrase": "take a leaf out of someone's book",
+                    "chineseMeaning": "学习某人的长处，效仿某人",
+                    "example": "We should take a leaf out of his book and work harder.",
+                    "chineseOfExample": "我们应该学习他的榜样，更加努力工作。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-15",
+            "words": [
+                {
+                    "word": "ephemeral",
+                    "pronounciation": "ɪˈfemərəl",
+                    "chineseMeaning": "短暂的，瞬息的",
+                    "example": "The beauty of the cherry blossoms is ephemeral.",
+                    "chineseOfExample": "樱花之美转瞬即逝。"
+                },
+                {
+                    "word": "equanimity",
+                    "pronounciation": "ˌekwəˈnɪməti",
+                    "chineseMeaning": "平静，镇定",
+                    "example": "She faced the difficult situation with equanimity.",
+                    "chineseOfExample": "她镇定自若地面对困境。"
+                },
+                {
+                    "word": "erudite",
+                    "pronounciation": "ˈerudaɪt",
+                    "chineseMeaning": "博学的，有学问的",
+                    "example": "The erudite professor gave an excellent lecture.",
+                    "chineseOfExample": "这位博学的教授讲了一堂精彩的课。"
+                },
+                {
+                    "word": "esoteric",
+                    "pronounciation": "ˌesəˈterɪk",
+                    "chineseMeaning": "深奥的，只有内行才懂的",
+                    "example": "This is an esoteric subject that few people understand.",
+                    "chineseOfExample": "这是一个很少有人懂的深奥学科。"
+                },
+                {
+                    "word": "evanescent",
+                    "pronounciation": "ˌiːvəˈnesnt",
+                    "chineseMeaning": "逐渐消失的，短暂的",
+                    "example": "Her smile was evanescent.",
+                    "chineseOfExample": "她的笑容一闪即逝。"
+                },
+                {
+                    "word": "exacerbate",
+                    "pronounciation": "ɪɡˈzæsəbeɪt",
+                    "chineseMeaning": "使恶化，使加剧",
+                    "example": "The lack of rain exacerbated the drought situation.",
+                    "chineseOfExample": "降雨不足加剧了干旱状况。"
+                },
+                {
+                    "word": "exculpate",
+                    "pronounciation": "ˈekskʌlpeɪt",
+                    "chineseMeaning": "使无罪，开脱",
+                    "example": "The new evidence exculpated him from the crime.",
+                    "chineseOfExample": "新证据证明他无罪。"
+                },
+                {
+                    "word": "exonerate",
+                    "pronounciation": "ɪɡˈzɒnəreɪt",
+                    "chineseMeaning": "免除责任，宣告无罪",
+                    "example": "The investigation exonerated her of all charges.",
+                    "chineseOfExample": "调查结果证明她所有指控都不成立。"
+                },
+                {
+                    "word": "exorbitant",
+                    "pronounciation": "ɪɡˈzɔːbɪtənt",
+                    "chineseMeaning": "过高的，过分的",
+                    "example": "The price of the house is exorbitant.",
+                    "chineseOfExample": "这房子的价格高得离谱。"
+                },
+                {
+                    "word": "extol",
+                    "pronounciation": "ɪkˈstəʊl",
+                    "chineseMeaning": "赞美，颂扬",
+                    "example": "They extolled the virtues of the new system.",
+                    "chineseOfExample": "他们赞扬了新系统的优点。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "turn a blind eye to",
+                    "chineseMeaning": "对……视而不见",
+                    "example": "We can't turn a blind eye to the environmental problems.",
+                    "chineseOfExample": "我们不能对环境问题视而不见。"
+                },
+                {
+                    "phrase": "turn a deaf ear to",
+                    "chineseMeaning": "对……充耳不闻",
+                    "example": "He turned a deaf ear to our warnings.",
+                    "chineseOfExample": "他对我们的警告充耳不闻。"
+                },
+                {
+                    "phrase": "wear one's heart on one's sleeve",
+                    "chineseMeaning": "坦率地表达自己的感情",
+                    "example": "She wears her heart on her sleeve and is never afraid to show her emotions.",
+                    "chineseOfExample": "她总是坦率地表达自己的感情，从不害怕表露情绪。"
+                },
+                {
+                    "phrase": "with flying colors",
+                    "chineseMeaning": "出色地，成功地",
+                    "example": "She passed the exam with flying colors.",
+                    "chineseOfExample": "她以优异的成绩通过了考试。"
+                },
+                {
+                    "phrase": "work hand in glove with",
+                    "chineseMeaning": "与……密切合作",
+                    "example": "The police worked hand in glove with the community to solve the crime.",
+                    "chineseOfExample": "警方与社区密切合作侦破了这起案件。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-16",
+            "words": [
+                {
+                    "word": "fallacious",
+                    "pronounciation": "fəˈleɪʃəs",
+                    "chineseMeaning": "谬误的，错误的",
+                    "example": "His argument is fallacious.",
+                    "chineseOfExample": "他的论点是错误的。"
+                },
+                {
+                    "word": "fatuous",
+                    "pronounciation": "ˈfætjuəs",
+                    "chineseMeaning": "愚蠢的，愚昧的",
+                    "example": "His fatuous remarks made everyone laugh.",
+                    "chineseOfExample": "他愚蠢的言论让大家都笑了。"
+                },
+                {
+                    "word": "fervent",
+                    "pronounciation": "ˈfɜːvənt",
+                    "chineseMeaning": "热情的，热烈的",
+                    "example": "He is a fervent supporter of the environmental movement.",
+                    "chineseOfExample": "他是环保运动的热情支持者。"
+                },
+                {
+                    "word": "fickle",
+                    "pronounciation": "ˈfɪkl",
+                    "chineseMeaning": "多变的，反复无常的",
+                    "example": "The fickle weather here can change in an instant.",
+                    "chineseOfExample": "这里多变的天气瞬间就能变。"
+                },
+                {
+                    "word": "flamboyant",
+                    "pronounciation": "flæmˈbɔɪənt",
+                    "chineseMeaning": "艳丽的，炫耀的；浮夸的",
+                    "example": "He has a flamboyant style of dressing.",
+                    "chineseOfExample": "他的穿着风格很浮夸。"
+                },
+                {
+                    "word": "fortuitous",
+                    "pronounciation": "fɔːˈtjuːɪtəs",
+                    "chineseMeaning": "偶然的，意外的",
+                    "example": "Our meeting was fortuitous.",
+                    "chineseOfExample": "我们的相遇纯属偶然。"
+                },
+                {
+                    "word": "frivolous",
+                    "pronounciation": "ˈfrɪvələs",
+                    "chineseMeaning": "轻浮的，不重要的",
+                    "example": "Don't waste your time on frivolous things.",
+                    "chineseOfExample": "别把时间浪费在无聊的事情上。"
+                },
+                {
+                    "word": "fulminate",
+                    "pronounciation": "ˈfʌlmɪneɪt",
+                    "chineseMeaning": "强烈谴责，猛烈抨击",
+                    "example": "The senator fulminated against the new tax policy.",
+                    "chineseOfExample": "参议员强烈谴责新的税收政策。"
+                },
+                {
+                    "word": "garrulous",
+                    "pronounciation": "ˈɡærələs",
+                    "chineseMeaning": "饶舌的，喋喋不休的",
+                    "example": "The garrulous old man talked non - stop.",
+                    "chineseOfExample": "这位喋喋不休的老人说个不停。"
+                },
+                {
+                    "word": "gregarious",
+                    "pronounciation": "ɡrɪˈɡeəriəs",
+                    "chineseMeaning": "爱交际的，合群的",
+                    "example": "She is a gregarious person who loves parties.",
+                    "chineseOfExample": "她是个爱交际的人，喜欢参加派对。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "bite the bullet",
+                    "chineseMeaning": "咬紧牙关，勇敢面对",
+                    "example": "He decided to bite the bullet and tell her the truth.",
+                    "chineseOfExample": "他决定勇敢面对，把真相告诉她。"
+                },
+                {
+                    "phrase": "break the ice",
+                    "chineseMeaning": "打破僵局，破冰",
+                    "example": "His joke helped to break the ice at the party.",
+                    "chineseOfExample": "他的笑话帮助打破了聚会上的僵局。"
+                },
+                {
+                    "phrase": "call it a day",
+                    "chineseMeaning": "收工，结束一天的工作",
+                    "example": "It's getting late. Let's call it a day.",
+                    "chineseOfExample": "天色已晚，咱们收工吧。"
+                },
+                {
+                    "phrase": "cut the mustard",
+                    "chineseMeaning": "符合要求，达到标准",
+                    "example": "He didn't cut the mustard in his new job.",
+                    "chineseOfExample": "他在新工作中没能达到要求。"
+                },
+                {
+                    "phrase": "hit the nail on the head",
+                    "chineseMeaning": "一针见血，一语道破",
+                    "example": "She hit the nail on the head when she described the problem.",
+                    "chineseOfExample": "她描述问题时一针见血。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-17",
+            "words": [
+                {
+                    "word": "hackneyed",
+                    "pronounciation": "ˈhækniːd",
+                    "chineseMeaning": "陈腐的，老生常谈的",
+                    "example": "His speech was full of hackneyed phrases.",
+                    "chineseOfExample": "他的演讲满是陈词滥调。"
+                },
+                {
+                    "word": "halcyon",
+                    "pronounciation": "ˈhælsiən",
+                    "chineseMeaning": "平静的，愉快的；美好的往昔",
+                    "example": "They remember the halcyon days of their childhood.",
+                    "chineseOfExample": "他们回忆起童年的美好时光。"
+                },
+                {
+                    "word": "harangue",
+                    "pronounciation": "həˈræŋ",
+                    "chineseMeaning": "长篇大论地训斥，滔滔不绝地演讲",
+                    "example": "The boss harangued the employees about their poor performance.",
+                    "chineseOfExample": "老板就员工糟糕的表现长篇大论地训斥了一番。"
+                },
+                {
+                    "word": "hedonism",
+                    "pronounciation": "ˈhiːdənɪzəm",
+                    "chineseMeaning": "享乐主义",
+                    "example": "His lifestyle seems to be based on hedonism.",
+                    "chineseOfExample": "他的生活方式似乎基于享乐主义。"
+                },
+                {
+                    "word": "heretical",
+                    "pronounciation": "hɪˈretɪkl",
+                    "chineseMeaning": "异端的，离经叛道的",
+                    "example": "His ideas were considered heretical by the traditionalists.",
+                    "chineseOfExample": "他的想法被传统主义者视为异端。"
+                },
+                {
+                    "word": "histrionic",
+                    "pronounciation": "ˌhɪstriˈɒnɪk",
+                    "chineseMeaning": "戏剧性的，夸张的",
+                    "example": "Her histrionic behavior at the party was embarrassing.",
+                    "chineseOfExample": "她在聚会上夸张的表现很让人尴尬。"
+                },
+                {
+                    "word": "homogeneous",
+                    "pronounciation": "ˌhɒməˈdʒiːniəs",
+                    "chineseMeaning": "同种类的，同性质的，均匀的",
+                    "example": "The population in this area is relatively homogeneous.",
+                    "chineseOfExample": "这个地区的人口相对同质。"
+                },
+                {
+                    "word": "hubris",
+                    "pronounciation": "ˈhjuːbrɪs",
+                    "chineseMeaning": "傲慢，狂妄自大",
+                    "example": "His hubris led to his downfall.",
+                    "chineseOfExample": "他的狂妄自大导致了他的失败。"
+                },
+                {
+                    "word": "iconoclast",
+                    "pronounciation": "aɪˈkɒnəklæst",
+                    "chineseMeaning": "攻击传统观念的人，打破旧习的人",
+                    "example": "The artist is an iconoclast who challenges the traditional art forms.",
+                    "chineseOfExample": "这位艺术家是个挑战传统艺术形式的革新者。"
+                },
+                {
+                    "word": "idiosyncrasy",
+                    "pronounciation": "ˌɪdiəˈsɪŋkrəsi",
+                    "chineseMeaning": "个人特质，怪癖",
+                    "example": "Everyone has their own idiosyncrasies.",
+                    "chineseOfExample": "每个人都有自己的怪癖。"
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "jump on the bandwagon",
+                    "chineseMeaning": "赶时髦，随大流",
+                    "example": "Many companies jumped on the bandwagon of the new technology.",
+                    "chineseOfExample": "许多公司纷纷跟风采用这项新技术。"
+                },
+                {
+                    "phrase": "keep someone at arm's length",
+                    "chineseMeaning": "与某人保持距离",
+                    "example": "She keeps him at arm's length because she doesn't trust him.",
+                    "chineseOfExample": "她与他保持距离，因为不信任他。"
+                },
+                {
+                    "phrase": "let the cat out of the bag",
+                    "chineseMeaning": "泄露秘密",
+                    "example": "He accidentally let the cat out of the bag about the surprise party.",
+                    "chineseOfExample": "他不小心泄露了惊喜派对的秘密。"
+                },
+                {
+                    "phrase": "make ends meet",
+                    "chineseMeaning": "收支平衡，勉强维持生计",
+                    "example": "With the high cost of living, it's hard for many families to make ends meet.",
+                    "chineseOfExample": "生活成本高，许多家庭难以维持生计。"
+                },
+                {
+                    "phrase": "put one's foot in one's mouth",
+                    "chineseMeaning": "说错话，无意中得罪人",
+                    "example": "He really put his foot in his mouth when he made that comment.",
+                    "chineseOfExample": "他发表那番评论时真的是说错话了。"
+                }
+            ]
+        }
+    ]
+}
